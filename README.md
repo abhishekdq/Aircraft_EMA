@@ -22,7 +22,7 @@ The EMA system is modeled as a closed-loop control system consisting of:
 
 ### Model Block Diagram
 
-![Model Architecture](results/model_architecture.png)
+model_architecture.png
 
 ---
 
