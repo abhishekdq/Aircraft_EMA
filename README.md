@@ -99,12 +99,13 @@ A short demonstration of the simulation is available below:
 
 ```text
 Aircraft_EMA/
+├── EMA_media.mp4
 ├── EMA_model.slx
 ├── EMA_parameters.m
-├── model_architecture.png
-├── system_response.png
-├── error_control_response.png
 ├── README.md
+├── error_control_response.png
+├── model_architecture.png
+├── system_architecture.png
 
 ```
 
