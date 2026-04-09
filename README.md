@@ -84,12 +84,12 @@ A short demonstration of the simulation is available below:
 2. Run:
 
    ```matlab
-   scripts/parameters.m
+   parameters.m
    ```
 3. Open:
 
    ```
-   model/EMA_model.slx
+   EMA_model.slx
    ```
 4. Run the simulation
 
@@ -98,11 +98,13 @@ A short demonstration of the simulation is available below:
 ## Project Structure
 
 ```text
-Aircraft-EMA-Simulation/
-├── model/        # Simulink model
-├── scripts/      # Parameter definitions
-├── results/      # Output plots and diagrams
-├── media/        # Simulation demo video
+Aircraft_EMA/
+├── EMA_model/        # Simulink model
+├── EMA_parameters/      # Parameter definitions
+├── model_architecture.png
+    error_control_response
+    system_system_response/      # Output plots and diagrams
+├── EMA_Sim_Video/        # Simulation demo video
 ```
 
 ---
