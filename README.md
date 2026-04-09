@@ -22,7 +22,7 @@ The EMA system is modeled as a closed-loop control system consisting of:
 
 ### Model Block Diagram
 
-![System Response](model_architecture.png)
+![Simulink Model](model_architecture.png)
 
 ---
 
@@ -74,7 +74,7 @@ The controller successfully maintains stable position tracking with bounded erro
 
 A short demonstration of the simulation is available below:
 
-📹 *(Add video here if uploaded)*
+![Simulation Video](EMA_media.mp4)
 
 ---
 
