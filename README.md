@@ -97,17 +97,15 @@ A short demonstration of the simulation is available below:
 
 ## Project Structure
 
-```text
 Aircraft_EMA/
 - `EMA_media.mp4`
-├── EMA_model.slx
-├── EMA_parameters.m
-├── README.md
-├── error_control_response.png
-├── model_architecture.png
-├── system_response.png
+- `EMA_model.slx`
+- `EMA_parameters.m`
+- `README.md`
+- `error_control_response.png`
+- `model_architecture.png`
+-  `system_response.png`
 
-```
 
 ---
 
