@@ -105,7 +105,7 @@ Aircraft_EMA/
 ├── README.md
 ├── error_control_response.png
 ├── model_architecture.png
-├── system_architecture.png
+├── system_response.png
 
 ```
 
