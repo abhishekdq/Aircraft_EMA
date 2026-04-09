@@ -99,12 +99,13 @@ A short demonstration of the simulation is available below:
 
 ```text
 Aircraft_EMA/
-├── EMA_model/        # Simulink model
-├── EMA_parameters/      # Parameter definitions
+├── EMA_model.slx
+├── EMA_parameters.m
 ├── model_architecture.png
-    error_control_response
-    system_system_response/      # Output plots and diagrams
-├── EMA_Sim_Video/        # Simulation demo video
+├── system_response.png
+├── error_control_response.png
+├── README.md
+
 ```
 
 ---
