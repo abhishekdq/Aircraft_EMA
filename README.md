@@ -42,11 +42,11 @@ The EMA system is modeled as a closed-loop control system consisting of:
 
 ### System Response (Position, Current, Velocity)
 
-![System Response](results/system_response.png)
+![System Response](system_response.png)
 
 ### Error and Control Effort
 
-![Error and Control](results/error_control_response.png)
+![Error and Control](error_control_response.png)
 
 ---
 
