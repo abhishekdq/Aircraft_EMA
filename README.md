@@ -99,7 +99,7 @@ A short demonstration of the simulation is available below:
 
 ```text
 Aircraft_EMA/
-├── EMA_media.mp4
+- `EMA_media.mp4`
 ├── EMA_model.slx
 ├── EMA_parameters.m
 ├── README.md
