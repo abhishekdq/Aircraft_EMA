@@ -98,13 +98,11 @@ A short demonstration of the simulation is available below:
 ## Project Structure
 
 Aircraft_EMA/
-- `EMA_media.mp4`
-- `EMA_model.slx`
-- `EMA_parameters.m`
+- `Figures/` → Model Architecture and Response Snapshots
+- `Media/` → Model Working Video
+- `Model/` → Simulink Model (.slx file)
+- `Parameters/` → Model parameters (.m file)
 - `README.md`
-- `error_control_response.png`
-- `model_architecture.png`
--  `system_response.png`
 
 
 ---
