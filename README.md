@@ -22,7 +22,7 @@ The EMA system is modeled as a closed-loop control system consisting of:
 
 ### Model Block Diagram
 
-![Simulink Model](model_architecture.png)
+![Simulink Model](Figures/model_architecture.png)
 
 ---
 
@@ -42,11 +42,11 @@ The EMA system is modeled as a closed-loop control system consisting of:
 
 ### System Response (Position, Current, Velocity)
 
-![System Response](system_response.png)
+![System Response](Figures/system_response.png)
 
 ### Error and Control Effort
 
-![Error and Control](error_control_response.png)
+![Error and Control](Figures/error_control_response.png)
 
 ---
 
