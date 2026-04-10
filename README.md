@@ -99,7 +99,7 @@ A short demonstration of the simulation is available below:
 
 Aircraft_EMA/
 - `Figures/` → Model Architecture and Response Snapshots
-- `Media/` → Model Working Video
+- `Media/` → Model Video Demonstration
 - `Model/` → Simulink Model (.slx file)
 - `Parameters/` → Model parameters (.m file)
 - `README.md`
